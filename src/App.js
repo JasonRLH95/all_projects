@@ -4,6 +4,7 @@ import image1 from './images/garage_image.png';
 import image2 from './images/sudoku_image.png';
 import image3 from './images/bankApp_image.png';
 import image4 from './images/cards_image.png';
+import image5 from './images/solar_system.png';
 // import image5 from './images/calc_image.png';
 
 function App() {
@@ -31,6 +32,12 @@ function App() {
       link:"https://jasonrlh95.github.io/cards_game_app/",
       image:image4,
       desc:'War card game against the computer responsive for web/mobile - let the best wins!'
+    },
+    {
+      name:'Solar system webpage',
+      link:"https://jasonrlh95.github.io/solar_system/",
+      image:image5,
+      desc:'A great travel into out of space, none responsive webpage(yet)'
     },
     // {
     //   name:'event calculator',
