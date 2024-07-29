@@ -8,6 +8,7 @@ export default function Link(props) {
             <div className='linksDiv'>
                 <a target='_blank' href={props.link}><img className='linkImg' src={props.image} alt='img'></img></a>
             </div>
+            <p className='linksDesc'>{props.lang}</p>
             <p className='linksDesc'>{props.desc}</p>
         </div>
     )

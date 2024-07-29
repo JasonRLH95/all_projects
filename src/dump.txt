@@ -1,0 +1,17 @@
+
+// import image3 from './images/bankApp_image.png';
+// import image5 from './images/events_calc_image.png';
+
+
+// {
+    //   name:'Bank expenses app',
+    //   link:'https://jasonrlh95.github.io/bankApp/',
+    //   image:image3,
+    //   desc:'Expenses management responsive mobile/web site'
+    // },
+    // {
+    //   name:'event calculator',
+    //   link:"https://jasonrlh95.github.io/event_calc_app/",
+    //   image:image5,
+    //   desc:'A calculator web/app responsively that calculate for events hall workers how many baskets of wine cups/egg cups/plates they need relative to the amount of tables/clients per event'
+    // },

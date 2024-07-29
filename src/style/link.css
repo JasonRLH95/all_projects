@@ -1,3 +1,5 @@
+
+
 .linksDiv{
     margin: auto;
     width: 300px;
@@ -7,15 +9,24 @@
 }
 .linksP{
     color: white;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
     margin-top: 70px;
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 21px;
 }
 .linkImg{
     width: 300px;
     height: 200px;
     border-radius: 15px;
+    box-shadow:5px 5px 10px #111, 10px 10px 20px #444;
 }
 .linksDesc{
     width: 300px;
     color: white;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
 }
