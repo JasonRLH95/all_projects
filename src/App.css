@@ -87,7 +87,7 @@ body{
   font-weight: bold;
 }
 
-@media (max-height:768px){
+@media (max-width:768px){
   .top_section{
     width: 100%;
     margin: 0;
