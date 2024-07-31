@@ -85,7 +85,7 @@ function App() {
     },
     {
       name:"whatsapp",
-      link:"https://wa.me/0507170101",
+      link:"https://wa.me/972507170101",
       image:whatsappImg,
     }
   ];
