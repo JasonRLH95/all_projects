@@ -27,7 +27,7 @@ const projects = [
     },
     {
       name:"Task-Manager",
-      link:"https://task-manager-o3jt.onrender.com",
+      link:"https://jasonrlh95.github.io/task_manager/",
       image:data.image8,
       desc:"Task manager website, connecting to firebase",
       category:"Tools",
