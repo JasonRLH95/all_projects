@@ -9,7 +9,7 @@ import image3 from '../images/cards_image.png';
 import image4 from '../images/solar_system.png';
 import image5 from '../images/to-do-list_image.png';
 import image6 from '../images/calulator_app_image.png';
-import image7 from '../images/ToDo-List_TS.png';
+import image7 from '../images/todo_list_JR.png';
 import image8 from "../images/taskManager_fb.png";
 
 
